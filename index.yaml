@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  nginx:
+  nginx2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-19T20:41:08.650651-05:00"
+    created: "2020-02-19T21:12:28.631588-05:00"
     description: A Helm chart for Kubernetes
-    digest: 7e881c932ece1176d328446e7b2c2c51da92a0f5e360a784215ae1ded28ae164
-    name: nginx
+    digest: a8def2ce4b8e6492dc5002cace566919838d91fc1b0120a9625fb129c4c5b93c
+    name: nginx2
     type: application
     urls:
-    - https://github.com/hassanmzia/zia-helm1/nginx-0.1.0.tgz
+    - https://hassanmzia.github.io/zia-helm1/nginx2-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-19T20:41:08.649066-05:00"
+generated: "2020-02-19T21:12:28.628268-05:00"
